@@ -2,7 +2,7 @@
 
 All the projects use python language.
 
-In ML folder its contains various machine learning projects.
+-In ML folder its contains various machine learning projects.
 
 In Visualization Project folder it contains various visualization projects.
 
